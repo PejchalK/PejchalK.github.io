@@ -52,49 +52,6 @@ header .frame .text .h1
 	fill: blue;
 
 }
-article{
-	background-color: #87c0cd;
-	height: 1350px;
-	width:100%;
-
-}
-article .frame{
-	margin: auto;
-	text-align: center;
-	width:100%;
-
-}
-article .spot{
-	text-align:justify;
-	font-size: 22px;
-	float:left;
-
-}	
-article .iframe{
-	width:370px;
-	height:490px;
-	margin-left: 10%;
-	margin-top:10%;
-}
-.menu-under
-{	
-	background-color:#EBE4E4;
-	position: sticky;
-	height:10vh;
-	background-color:;
-}
-.menu-under .block{
-	display: inline-block;
-	width:20%;
-	height:100%;
-	text-align:center;
-	font-size:25px;
-	font-family:monospace;
-}
-
-.menu-under .block:hover{
-	background-color:#9F9797;
-}
 .aboutme{
 	width: 100%;
 	height:45vh;
@@ -118,4 +75,10 @@ tr:nth-child(even){background-color: #f2f2f2}
 th {
   background-color: #4CAF50;
   color: white;
+}
+
+.menu-under{
+	max-width: 80%;
+	height:20%;
+	
 }
