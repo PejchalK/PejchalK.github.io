@@ -79,8 +79,6 @@ article .iframe{
 .menu-under
 {	
 	background-color:#EBE4E4;
-	padding-left:10%;
-	padding-right:10%;
 	position: sticky;
 	height:10vh;
 	background-color:;
@@ -89,8 +87,6 @@ article .iframe{
 	display: inline-block;
 	width:20%;
 	height:100%;
-	padding-top: 25px;
-	padding-left: 25px;
 	text-align:center;
 	font-size:25px;
 	font-family:monospace;
