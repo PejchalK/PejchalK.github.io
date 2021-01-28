@@ -2,8 +2,3 @@
 	background-image: url("../img/bgr.png");
 	opacty: 0,2;
 }
-.block{
-
-	background:blue;
-
-}
